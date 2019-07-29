@@ -1,0 +1,77 @@
+
+body {
+    border: 1px solid red !important;
+    padding-top: 109px;
+    background-color: white;
+
+}
+
+.navbar-light .navbar-nav .nav-link {
+  text-transform: uppercase;
+  color: '#444444';
+  font-weight: 700;
+  font-size: 13;
+  line-height: 11px;
+  font-family: 'Montserrat';
+}
+
+.navbar {
+    min-height: 70px;
+  }
+
+.navbar-brand {
+    
+    margin-top: 20px;
+    height: 70px;
+    line-height: 20px;
+    
+  }
+
+  .navbar-toggle {
+    /* (80px - button height 34px) / 2 = 23px */
+    margin-top: 23px;
+    padding: 9px 10px !important;
+  }
+
+  .navbar-brand small {
+    display:block;
+    font-size:20px;
+    letter-spacing: 0.4em;
+  }
+
+  
+  #satura {
+    /*height: 150px;*/
+    /*margin-top: 0px;*/
+    display: block;
+    background: url("../images/paper.png") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+}
+
+.page-link {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.hero-feature {
+
+  padding-top: 15px;
+  padding-bottom: 15px;
+
+}
+ /*#header {
+    text-transform: uppercase;
+    color: '#444444';
+    font-weight: 700;
+    font-size: 13;
+    line-height: 11px;
+    font-family: 'Montserrat';
+  }*/
+
+  
+  
+ 
